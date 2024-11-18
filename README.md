@@ -1,4 +1,4 @@
-#Responsive Education Website
+# Responsive Education Website
 
 Welcome to the Responsive Education Website project! This repository showcases a modern, interactive, and fully responsive education platform built with HTML, CSS, and JavaScript. Our goal is to provide an intuitive and engaging online learning experience that adapts seamlessly across all devices, from desktops to smartphones.
 
